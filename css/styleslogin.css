@@ -168,6 +168,7 @@
         -moz-transform: scale(0.88);
         -ms-transform: scale(0.88);
         -o-transform: scale(0.88);
+                margin-top: 100px;
 }
 .studentLogin, .adminLogin, .studentLogin::before,.adminLogin::before{
     background:none;

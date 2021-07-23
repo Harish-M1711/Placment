@@ -161,13 +161,8 @@
 
 @media screen and (max-width: 500px) {
     .box{
-        left:-160px;
-        top:-160px;
-        transform: scale(0.3);
-        -webkit-transform: scale(0.3);
-        -moz-transform: scale(0.3);
-        -ms-transform: scale(0.3);
-        -o-transform: scale(0.3);
+        left:-5px;
+        top:-30px;
 }
 .studentLogin, .adminLogin, .studentLogin::before,.adminLogin::before{
     background-image: none;
